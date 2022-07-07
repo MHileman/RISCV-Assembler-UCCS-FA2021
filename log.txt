@@ -1,0 +1,18 @@
+c1f0798 mghileman (2021-09-25): Linker completed. Main calls and frees. Assembler functional, all tests working. Only need error checking implementation.
+e7e4c78 mghileman (2021-09-25): .text complete, .data fix. Linker needed.
+56a1cae mghileman (2021-09-24): Assembler complete for standard instructions. Tests working! Psuedo instructions started.
+a538331 mghileman (2021-09-24): _instruction_to_binary bugs and warnings resolved.
+f99ecf5 mghileman (2021-09-23): Fixed reg lookup with StrStr(). Created cases for psuedo instr.
+0d217eb mghileman (2021-09-22): Instruction to binary complete - buchecking and fixes needed.
+c7c1ad6 mghileman (2021-09-19): Assembler structure 2.0 - bindings complete & standard assemble instructions.
+ad53ad2 mghileman (2021-09-18): Assembler structure 2.0 - binding functions complete.
+2894e01 mghileman (2021-09-18): Assembler structure foundation 1.
+924aeed mghileman (2021-09-17): Created file structure and starting functions using bitwise operators.
+42ebbb8 Gedare Bloom (2021-08-26): parser: fix string handling
+042cfae Gedare Bloom (2021-08-25): add a basic Makefile
+35be31e Gedare Bloom (2021-08-25): add TODO stub
+30fb7b7 Gedare Bloom (2021-08-25): Add writer to generate program file and a basic dissassembler.
+d0fd191 Gedare Bloom (2021-08-25): remove swp file andupdate gitignore
+63d0ef1 Gedare Bloom (2021-08-25): Initial parser support
+3284f58 Gedare Bloom (2021-08-25): update readme
+c6edd89 Gedare Bloom (2021-08-25): Initial commit
